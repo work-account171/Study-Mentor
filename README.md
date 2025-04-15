@@ -5,6 +5,7 @@
 ## 🚀 Live Demo
 Check out the live site here:  
 👉 [https://study-mentor-kohl.vercel.app](https://study-mentor-kohl.vercel.app)
+SCSS (Sassy CSS) is used to write more maintainable and modular stylesheets with variables, nesting, and reusable code blocks, making the styling easier to manage and scale.
 
 ## ✨ Features
 - Fully responsive design

@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 Check out the live site here:  
-👉 [https://your-studymentor-site.vercel.app](https://study-mentor-kohl.vercel.app)
+👉 [https://study-mentor-kohl.vercel.app](https://study-mentor-kohl.vercel.app)
 
 ## ✨ Features
 - Fully responsive design
